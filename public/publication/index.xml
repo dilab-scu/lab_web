@@ -1,16 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | SCU</title>
+    <title>Publications | DICAlab</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu9b11f55f68445448a3fe0494b605b2d6_13188_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>/publication/revision-in-continuous-space/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/revision-in-continuous-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed framework for EA-based NAS.</title>
+      <link>/publication/distributed-framework-for-ea-based-nas/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/distributed-framework-for-ea-based-nas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A local non-negative pursuit method for intrinsic manifold structure preservation.</title>
+      <link>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network Framework For Small-Sample Learning.</title>
+      <link>/publication/a-network-framework-for-small-sample-learning/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-network-framework-for-small-sample-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>/publication/bfgan/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bfgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Regulated Iterative Network for Joint Task of Music Detection and Music Relative Loudness Estimation.</title>
+      <link>/publication/hierarchical-regulated-iterative-network/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-regulated-iterative-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Alignment Based on Sparse LocalStructures of More Corresponding Pairs.</title>
+      <link>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering.</title>
+      <link>/publication/rikinet/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rikinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Multi-Manifold Clustering by Learning Deep Representation.</title>
+      <link>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>µ-Forcing:Training Variational Recurrent Autoencoders for Text Generation</title>
+      <link>/publication/training-variational-recurrent-autoencoders-for-text-generation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/training-variational-recurrent-autoencoders-for-text-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Inference Algorithm for Text Infilling with Gradient Search</title>
+      <link>/publication/an-inference-algorithm/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/an-inference-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient-Modern Chinese Translation with a New Large Training Dataset</title>
+      <link>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

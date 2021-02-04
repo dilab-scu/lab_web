@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | SCU</title>
+    <title>Posts | DICAlab</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu9b11f55f68445448a3fe0494b605b2d6_13188_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Ancient poetry data set</title>
+      <link>/post/nlp-dataset-4/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-4/</guid>
+      <description>&lt;p&gt;The datasets contains 232,670 quatrains. Each quatrain consists of 4 lines of sentences, and the length of each line is fixed to 5 or 7 characters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese dialogue dataset</title>
+      <link>/post/nlp-dataset-6/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-6/</guid>
+      <description>&lt;p&gt;Prepocessed dataset containing 240k QA examples&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese Internet product user review data set</title>
+      <link>/post/nlp-dataset-3/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-3/</guid>
+      <description>&lt;p&gt;The dataset contains 586,538 sentences about user comments, which cover both positive and negetive comments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese sentence making corpus</title>
+      <link>/post/nlp-dataset-2/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-2/</guid>
+      <description>&lt;p&gt;This datasts contains 2,445,164 sentences consisting of daily used words and idioms, each word and idioms have more than one example sentence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Couplet data set</title>
+      <link>/post/nlp-dataset-5/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-5/</guid>
+      <description>&lt;p&gt;The dataset contains 774,491 ancient chinese couplets&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Materials collection of Qi language of ancient and modern Chinese</title>
+      <link>/post/nlp-dataset-1/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-1/</guid>
+      <description>&lt;p&gt;We create a new large-scale Ancient-Modern Chinese parallel corpus which contains 1.24M bilingual pairs. To our best knowledge, this is the first large high-quality Ancient-Modern Chinese dataset which includes 984,611 pairs in training set, 48,980 pairs in validation set, and 50,000 pairs in test set.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical problem generation pre training data</title>
+      <link>/post/nlp-dataset-7/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-7/</guid>
+      <description>&lt;p&gt;Preprocessed dataset containing 1.06 million medical QA examples&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

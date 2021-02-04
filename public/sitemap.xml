@@ -3,39 +3,507 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/author/dayiheng-liu/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/author/dongbo-liu/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/author/chenwei-tang/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/author/hang-zhang/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/author/juan-zhao/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/author/kexin-yang/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/author/mingfeng-xue/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/qian-qu/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wentao-feng/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yuxin-tian/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zhanao-huang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yifan-pu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/feifei-fu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/chanjuan-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/cheng-luo/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/liao-chen/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zhichen-lai/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yong-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yusen-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zhen-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/shenglan-yang/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/haoran-bai/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/chuan-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jiulin-lang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/hongjie-wu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/huishuang-tian/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dejia-yuan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/chaoqun-niu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jindi-lv/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/pengsen-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yanqing-hu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jian-lan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yi-gao/</loc>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chris-pal/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jiancheng-lv/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jiefu/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/revision-in-continuous-space/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yidanzhang/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nlp-project-3/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nlp/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/distributed-framework-for-ea-based-nas/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-network-framework-for-small-sample-learning/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bfgan/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-chen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.chen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daxinjiang/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dongdongchen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/feng-he/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hierarchical-regulated-iterative-network/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jiabijue/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jiushengchen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jixinzhang/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nanduan/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qingye/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rikinet/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiaojieli/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xipeng/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xue-yang/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanansun/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yaochen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yeyungong/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuanyuan-chen/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuyan/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/z.yi/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhangyi/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhenanhe/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/training-variational-recurrent-autoencoders-for-text-generation/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/an-inference-algorithm/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pengfeiliu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bigdata/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/bigdata-project-1/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nlp-project-2/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nlp-project-1/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cv-project-2/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cv/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cv-project-1/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-4/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-6/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-3/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-2/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-5/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-1/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nlp-dataset-7/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/nlp/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-source/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mao-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/quanhui-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/shudong-huang/</loc>
   </url>
   
 </urlset>

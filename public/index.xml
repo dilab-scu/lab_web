@@ -1,16 +1,249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SCU</title>
+    <title>DICAlab</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>SCU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>DICAlab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>SCU</title>
+      <url>/images/icon_hu9b11f55f68445448a3fe0494b605b2d6_13188_512x512_fill_lanczos_center_2.png</url>
+      <title>DICAlab</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>/publication/revision-in-continuous-space/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/revision-in-continuous-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laozhongyi(老中医)</title>
+      <link>/project/nlp-project-3/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/nlp-project-3/</guid>
+      <description>&lt;p&gt;Introduction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A distributed framework for EA-based NAS.</title>
+      <link>/publication/distributed-framework-for-ea-based-nas/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/distributed-framework-for-ea-based-nas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A local non-negative pursuit method for intrinsic manifold structure preservation.</title>
+      <link>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network Framework For Small-Sample Learning.</title>
+      <link>/publication/a-network-framework-for-small-sample-learning/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-network-framework-for-small-sample-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>/publication/bfgan/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bfgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Regulated Iterative Network for Joint Task of Music Detection and Music Relative Loudness Estimation.</title>
+      <link>/publication/hierarchical-regulated-iterative-network/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-regulated-iterative-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Alignment Based on Sparse LocalStructures of More Corresponding Pairs.</title>
+      <link>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering.</title>
+      <link>/publication/rikinet/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rikinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Multi-Manifold Clustering by Learning Deep Representation.</title>
+      <link>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>µ-Forcing:Training Variational Recurrent Autoencoders for Text Generation</title>
+      <link>/publication/training-variational-recurrent-autoencoders-for-text-generation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/training-variational-recurrent-autoencoders-for-text-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Inference Algorithm for Text Infilling with Gradient Search</title>
+      <link>/publication/an-inference-algorithm/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/an-inference-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient-Modern Chinese Translation with a New Large Training Dataset</title>
+      <link>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain like large scale neural network system</title>
+      <link>/project/bigdata-project-1/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/bigdata-project-1/</guid>
+      <description>&lt;p&gt;Continuously optimizing the training data set and neural network model scale is the key to the success of deep learning. When the data set is rich enough, increasing the scale of the neural network can obtain higher prediction accuracy, which has been verified in a series of research fields including text, image, audio, etc. However, the current problems of modular neural network design are mainly concentrated in a single field, solving problems based on data characteristics, rather than discovering the semantic relationship of data like the human brain, so the interpretability and robustness are not good. This project proposes a method to build a super large-scale neural network system based on the functional mechanism of the human brain. The system is based on brain-like and neural network research, integrating a large amount of existing data and pre-training models, and breaking through the existing deep neural network processing functions The single defect aims to design a new generation of neural network models, realize human-like knowledge storage and reasoning, and move towards general artificial intelligence. The entire system includes the foundation of brain function research, the construction of a brain-like functional neural network library, and how to design a large-scale neural network model component platform based on the brain function collaborative work mechanism and the brain-like neural network library. At the same time, in order to achieve efficient training of super-large-scale neural networks, the system provides a distributed neural network training platform and training algorithms. Finally, the system is verified on multiple different modal tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Budongwenyan xiaofan(不懂文言)</title>
+      <link>/project/nlp-project-2/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/nlp-project-2/</guid>
+      <description>&lt;p&gt;Please use Wechat to scan the QR code above to open the Budongwenyan APP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chuanxiaomei(川小妹)</title>
+      <link>/project/nlp-project-1/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/nlp-project-1/</guid>
+      <description>&lt;p&gt;Please use Wechat to scan the QR code above to open the Chuanxiaomei APP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Craniofacial reconstruction</title>
+      <link>/project/cv-project-2/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cv-project-2/</guid>
+      <description>&lt;p&gt;This project proposes an end-to-end craniofacial restoration technology based on deep learning, and develops a fast and high-precision craniofacial restoration intelligent cloud platform. This project aims to explore the application of artificial intelligence in forensic anthropology. Skull facial restoration is one of the key points of forensic anthropology. Its core significance lies in identity recognition, such as identification by relatives and friends, and retrieval in the face database. In addition, craniofacial restoration is also of great significance to archaeological research. It can help archaeological researchers restore the appearance of ancient people and provide evidence for archaeological research results. In the future, the artificial intelligence-based craniofacial restoration system will be applied to the identification of victims in criminal investigation cases to provide assistance in case detection. It will also be applied to archaeological research to bring history closer to modern times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagnosis of cataract</title>
+      <link>/project/cv-project-1/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cv-project-1/</guid>
+      <description>&lt;p&gt;The project builds an interactive and shared cataract ultrasound database and researches artificial intelligence-based cataract intelligent diagnosis models and algorithms, and also researches breakthroughs in the key technologies of ultrasonic diagnostic audio and video real-time acquisition, compression, transmission, and deep learning intelligent diagnosis, and develops an intelligent cloud platform for cataract diagnosis . The research and development of a remote ultrasound cataract diagnosis system based on artificial intelligence will significantly improve the efficiency of screening and diagnosis of eye diseases for patients, and provide reliable assistance for scientifically formulating relevant treatment plans. Through remote ultrasound diagnosis technology, it solves the serious shortage of professional ophthalmologists in primary medical institutions in remote areas, and expands to the treatment and research of more eye diseases. It is expected to carry out 30 application demonstrations in the primary medical field in remote areas of Sichuan Province, serving more than 5,000 people in remote mountainous areas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ancient poetry data set</title>
+      <link>/post/nlp-dataset-4/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-4/</guid>
+      <description>&lt;p&gt;The datasets contains 232,670 quatrains. Each quatrain consists of 4 lines of sentences, and the length of each line is fixed to 5 or 7 characters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese dialogue dataset</title>
+      <link>/post/nlp-dataset-6/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-6/</guid>
+      <description>&lt;p&gt;Prepocessed dataset containing 240k QA examples&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese Internet product user review data set</title>
+      <link>/post/nlp-dataset-3/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-3/</guid>
+      <description>&lt;p&gt;The dataset contains 586,538 sentences about user comments, which cover both positive and negetive comments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese sentence making corpus</title>
+      <link>/post/nlp-dataset-2/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-2/</guid>
+      <description>&lt;p&gt;This datasts contains 2,445,164 sentences consisting of daily used words and idioms, each word and idioms have more than one example sentence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Couplet data set</title>
+      <link>/post/nlp-dataset-5/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-5/</guid>
+      <description>&lt;p&gt;The dataset contains 774,491 ancient chinese couplets&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Materials collection of Qi language of ancient and modern Chinese</title>
+      <link>/post/nlp-dataset-1/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-1/</guid>
+      <description>&lt;p&gt;We create a new large-scale Ancient-Modern Chinese parallel corpus which contains 1.24M bilingual pairs. To our best knowledge, this is the first large high-quality Ancient-Modern Chinese dataset which includes 984,611 pairs in training set, 48,980 pairs in validation set, and 50,000 pairs in test set.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical problem generation pre training data</title>
+      <link>/post/nlp-dataset-7/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/nlp-dataset-7/</guid>
+      <description>&lt;p&gt;Preprocessed dataset containing 1.06 million medical QA examples&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
