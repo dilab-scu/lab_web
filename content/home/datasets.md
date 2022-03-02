@@ -13,23 +13,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
 
-=======
->>>>>>> ac81028 (update2022)
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-<<<<<<< HEAD
-=======
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
   # Choose how many pages you would like to offset by
   offset = 0
 
@@ -43,15 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-<<<<<<< HEAD
-  
-=======
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -59,23 +38,12 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-<<<<<<< HEAD
-  
-=======
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
   # Background color.
   # color = "navy"
@@ -84,29 +52,12 @@ subtitle = ""
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
 
-=======
->>>>>>> ac81028 (update2022)
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-<<<<<<< HEAD
-=======
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
 [advanced]
  # Custom CSS. 
@@ -115,17 +66,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-=======
->>>>>>> ac81028 (update2022)
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-<<<<<<< HEAD
-=======
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 +++

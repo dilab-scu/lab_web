@@ -6,19 +6,7 @@ authors:
 - YidanZhang
 - Chris Pal
 - admin
-<<<<<<< HEAD
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-=======
-<<<<<<< HEAD
 
-=======
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 date: "2020-09-01T00:00:00Z"
 doi: ""
 
@@ -32,15 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-<<<<<<< HEAD
-publication: "*Journal of Source Themes, 1*(1)"
-=======
-<<<<<<< HEAD
 publication: ""
-=======
-publication: "*Journal of Source Themes, 1*(1)"
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -49,14 +29,6 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary:
 
 tags:
-<<<<<<< HEAD
-- Source Themes
-=======
-<<<<<<< HEAD
-=======
-- Source Themes
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
 featured: false
 
 # links:

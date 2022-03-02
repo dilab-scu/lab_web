@@ -14,9 +14,6 @@
   weight = 20
 
 [[main]]
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
   name = "Ph.D.Thesis"
   url = "#phd_thesis"
   weight = 25
@@ -27,9 +24,6 @@
   weight = 28
 
 [[main]]
-=======
->>>>>>> d1744224f7b63c92bf082641033beca38038df52
->>>>>>> ac81028 (update2022)
   name = "Projects"
   url = "#projects"
   weight = 30
