@@ -192,6 +192,13 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)
 # Configuration of project pages.
 [projects]
   # Views for associated content.

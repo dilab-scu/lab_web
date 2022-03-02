@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 /public/
+=======
+<<<<<<< HEAD
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+=======
+/public/
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)

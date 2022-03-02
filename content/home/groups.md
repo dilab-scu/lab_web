@@ -36,7 +36,15 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = "Focuses on medical image processing based on deep learning and strives to make technology serve society."
+<<<<<<< HEAD
   
+=======
+<<<<<<< HEAD
+
+=======
+  
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)
 
 [[item]]
   organization = ""
@@ -47,7 +55,15 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = "Fault detection, diagnosis technology, and data analysis in industrial process based on deep learning."
+<<<<<<< HEAD
  
+=======
+<<<<<<< HEAD
+
+=======
+ 
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)
 [[item]]
   organization = ""
   organization_url = ""
@@ -57,7 +73,15 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = "Based on brain-like and neural network research, we expected to integrate a large amount of existing data and pre-training models to design a new generation of neural network models and move towards general artificial intelligence."
+<<<<<<< HEAD
   
+=======
+<<<<<<< HEAD
+
+=======
+  
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)
 [[item]]
   organization = ""
   organization_url = ""
@@ -67,4 +91,11 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = "Mainly engaged in research on epidemiology, network science, and big data analysis"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> d1744224f7b63c92bf082641033beca38038df52
+>>>>>>> ac81028 (update2022)
 +++

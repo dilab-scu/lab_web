@@ -1,0 +1,13 @@
+@article{WANG2021107442,
+title = {Cataract detection based on ocular B-ultrasound images by collaborative monitoring deep learning},
+journal = {Knowledge-Based Systems},
+volume = {231},
+pages = {107442},
+year = {2021},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.107442},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121007048},
+author = {Yong Wang and Chenwei Tang and Jian Wang and Yongsheng Sang and Jiancheng Lv},
+keywords = {Cataract detection, Collaborative monitoring deep learning, B-ultrasound image},
+abstract = {In this paper, we collect an ocular B-ultrasound image dataset and propose a Collaborative Monitoring Deep Learning (CMDL) method to detect cataract. In the ocular B-ultrasound images, there are often strong echoes near the posterior capsule and lens, and the fine-grained ocular B-ultrasound images are often accompanied by the characteristics of weak penetrating power, low contrast, narrow imaging range, and high noise. Thus, in the proposed CMDL method, we introduce an object detection network based on YOLO-v3 to detect the focus areas we need, so as to reduce the interference of noise and improve the cataract detection accuracy of our method. Considering that the B-ultrasound image dataset we collected is small-scale, we also design three feature extraction modules to avoid over-fitting of the deep neural networks. Among them, there are a depth features extraction module based on DenseNet-161, a shape features extractor based on Fourier descriptor, and a texture features extraction module based on gray-level co-occurrence matrix. Moreover, we also introduce the collaborative learning module to improve the generalization of the proposed model. Specifically, we first fuse the depth, shape, and texture features of the eyeball and lens, respectively. Then, the fused features of the eyeball and lens are concatenated as the input of collaborative network. Finally, the introduced classification loss with the aid of collaborative loss, which distinguishes whether the eyeball and lens belong to the same category, improves the classification accuracy in cataract detection. Experimental results on our collected dataset demonstrate the effectiveness of the proposed CMDL method.}
+}
