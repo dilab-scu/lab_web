@@ -2,109 +2,509 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | DICAlab</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.dicalab.cn/publication/</link>
+      <atom:link href="https://www.dicalab.cn/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9b11f55f68445448a3fe0494b605b2d6_13188_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.dicalab.cn/images/icon_hu9b11f55f68445448a3fe0494b605b2d6_13188_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://www.dicalab.cn/publication/</link>
     </image>
     
     <item>
-      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
-      <link>/publication/revision-in-continuous-space/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/revision-in-continuous-space/</guid>
+      <title>Brain-Inspired Large-Scale Deep Neural Network System.</title>
+      <link>https://www.dicalab.cn/publication/brain-inspired-large-scale-deep-neural-network-system/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/brain-inspired-large-scale-deep-neural-network-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Distillation Method for Surface Defect Detection.</title>
+      <link>https://www.dicalab.cn/publication/knowledge-distillation-method-for-surface-defect-detection/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/knowledge-distillation-method-for-surface-defect-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cataract detection based on ocular B-ultrasound images by collaborative monitoring deep learning.</title>
+      <link>https://www.dicalab.cn/publication/cataract-detection-based-on-ocular-b-ultrasound-images-by-collaborative-monitoring-deep-learning/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/cataract-detection-based-on-ocular-b-ultrasound-images-by-collaborative-monitoring-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end edge detection via improved transformer model.</title>
+      <link>https://www.dicalab.cn/publication/end-to-end-edge-detection-via-improved-transformer-model/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/end-to-end-edge-detection-via-improved-transformer-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CR-GAN: Automatic craniofacial reconstruction for personal identification.</title>
+      <link>https://www.dicalab.cn/publication/cr-gan-automatic-craniofacial-reconstruction-for-personal-identification/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/cr-gan-automatic-craniofacial-reconstruction-for-personal-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POS-Constrained Parallel Decoding for Non-autoregressive Generation.</title>
+      <link>https://www.dicalab.cn/publication/pos-constrained-parallel-decoding-for-non-autoregressive-generation/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/pos-constrained-parallel-decoding-for-non-autoregressive-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Cataract Detection with Multi-Task Learning.</title>
+      <link>https://www.dicalab.cn/publication/automatic-cataract-detection-with-multi-task-learning/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/automatic-cataract-detection-with-multi-task-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication-Efficient Federated Learning With Compensated Overlap-FedAvg.</title>
+      <link>https://www.dicalab.cn/publication/communication-efficient-federated-learning-with-compensated-overlap-fedavg/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/communication-efficient-federated-learning-with-compensated-overlap-fedavg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning via Structure-Aligned Generative Adversarial Network.</title>
+      <link>https://www.dicalab.cn/publication/zero-shot-learning-via-structure-aligned-generative-adversarial-network/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/zero-shot-learning-via-structure-aligned-generative-adversarial-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poolingformer: Long Document Modeling with Pooling Attention.</title>
+      <link>https://www.dicalab.cn/publication/poolingformer-long-document-modeling-with-pooling-attention/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/poolingformer-long-document-modeling-with-pooling-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart-Darts: Classification of Heartbeats Using Differentiable Architecture Search.</title>
+      <link>https://www.dicalab.cn/publication/heart-darts-classification-of-heartbeats-using-differentiable-architecture-search/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/heart-darts-classification-of-heartbeats-using-differentiable-architecture-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnchiBERT: A Pre-Trained Model for Ancient Chinese Language Understanding and Generation.</title>
+      <link>https://www.dicalab.cn/publication/anchibert-a-pre-trained-model-for-ancient-chinese-language-understanding-and-generation/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/anchibert-a-pre-trained-model-for-ancient-chinese-language-understanding-and-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LANA: Towards Personalized Deep Knowledge Tracing Through Distinguishable Interactive Sequences.</title>
+      <link>https://www.dicalab.cn/publication/lana-towards-personalized-deep-knowledge-tracing-through-distinguishable-interactive-sequences/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/lana-towards-personalized-deep-knowledge-tracing-through-distinguishable-interactive-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automatic evaluation metric for Ancient-Modern Chinese translation.</title>
+      <link>https://www.dicalab.cn/publication/an-automatic-evaluation-metric-for-ancient-modern-chinese-translation/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/an-automatic-evaluation-metric-for-ancient-modern-chinese-translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A distributed framework for EA-based NAS.</title>
-      <link>/publication/distributed-framework-for-ea-based-nas/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/distributed-framework-for-ea-based-nas/</guid>
+      <link>https://www.dicalab.cn/publication/distributed-framework-for-ea-based-nas/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/distributed-framework-for-ea-based-nas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A local non-negative pursuit method for intrinsic manifold structure preservation.</title>
-      <link>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</guid>
+      <title>Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine.</title>
+      <link>https://www.dicalab.cn/publication/herb-know-knowledge-enhanced-prescription-generation-for-traditional-chinese-medicine/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/herb-know-knowledge-enhanced-prescription-generation-for-traditional-chinese-medicine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Network Framework For Small-Sample Learning.</title>
-      <link>/publication/a-network-framework-for-small-sample-learning/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/a-network-framework-for-small-sample-learning/</guid>
+      <title>Multi‐style Chinese art painting generation of flowers.</title>
+      <link>https://www.dicalab.cn/publication/multistyle-chinese-art-painting-generation-of-flowers/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/multistyle-chinese-art-painting-generation-of-flowers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
-      <link>/publication/bfgan/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bfgan/</guid>
+      <title>Exploration on the Generation of Chinese Palindrome Poetry.</title>
+      <link>https://www.dicalab.cn/publication/exploration-on-the-generation-of-chinese-palindrome-poetry/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/exploration-on-the-generation-of-chinese-palindrome-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Factors of Email Subject Generation.</title>
+      <link>https://www.dicalab.cn/publication/key-factors-of-email-subject-generation/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/key-factors-of-email-subject-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAN Sampling Adversarial Networks for Zero-Shot Learning.</title>
+      <link>https://www.dicalab.cn/publication/san-sampling-adversarial-networks-for-zero-shot-learning/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/san-sampling-adversarial-networks-for-zero-shot-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SuperConv Strengthening the Convolution Kernel via Weight Sharing.</title>
+      <link>https://www.dicalab.cn/publication/superconv-strengthening-the-convolution-kernel-via-weight-sharing/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/superconv-strengthening-the-convolution-kernel-via-weight-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart sound segmentation via Duration Long–Short Term Memory neural network.</title>
+      <link>https://www.dicalab.cn/publication/heart-sound-segmentation-via-duration-longshort-term-memory-neural-network/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/heart-sound-segmentation-via-duration-longshort-term-memory-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space.</title>
+      <link>https://www.dicalab.cn/publication/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Regulated Iterative Network for Joint Task of Music Detection and Music Relative Loudness Estimation.</title>
-      <link>/publication/hierarchical-regulated-iterative-network/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/hierarchical-regulated-iterative-network/</guid>
+      <link>https://www.dicalab.cn/publication/hierarchical-regulated-iterative-network/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/hierarchical-regulated-iterative-network/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Manifold Alignment Based on Sparse LocalStructures of More Corresponding Pairs.</title>
-      <link>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</guid>
+      <title>Hierarchical Parallel SGD with Stale Gradients Featuring.</title>
+      <link>https://www.dicalab.cn/publication/hierarchical-parallel-sgd-with-stale-gradients-featuring/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/hierarchical-parallel-sgd-with-stale-gradients-featuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>https://www.dicalab.cn/publication/revision-in-continuous-space/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/revision-in-continuous-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbitrary Chinese Font Generation from a Single Reference.</title>
+      <link>https://www.dicalab.cn/publication/arbitrary-chinese-font-generation-from-a-single-reference/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/arbitrary-chinese-font-generation-from-a-single-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Based Multi-Model Ensemble for Automatic Cataract Detection in B-Scan Eye Ultrasound Images.</title>
+      <link>https://www.dicalab.cn/publication/attention-based-multi-model-ensemble-for-automatic-cataract-detection-in-b-scan-eye-ultrasound-images/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/attention-based-multi-model-ensemble-for-automatic-cataract-detection-in-b-scan-eye-ultrasound-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-PSParameter Synchronization with Particle Swarm Optimization for Distributed Training of Deep Neural Networks.</title>
+      <link>https://www.dicalab.cn/publication/pso-psparameter-synchronization-with-particle-swarm-optimization-for-distributed-training-of-deep-neural-networks/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/pso-psparameter-synchronization-with-particle-swarm-optimization-for-distributed-training-of-deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Dual-Channel Network to Eliminate Catastrophic Forgetting.</title>
+      <link>https://www.dicalab.cn/publication/an-improved-dual-channel-network-to-eliminate-catastrophic-forgetting/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/an-improved-dual-channel-network-to-eliminate-catastrophic-forgetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Image-to-Image Translation between Domains with High Internal Variability.</title>
+      <link>https://www.dicalab.cn/publication/multimodal-image-to-image-translation-between-domains-with-high-internal-variability/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/multimodal-image-to-image-translation-between-domains-with-high-internal-variability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Chinese Poetry from Images via Concrete and Abstract Information.</title>
+      <link>https://www.dicalab.cn/publication/generating-chinese-poetry-from-images-via-concrete-and-abstract-information/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/generating-chinese-poetry-from-images-via-concrete-and-abstract-information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering.</title>
-      <link>/publication/rikinet/</link>
+      <link>https://www.dicalab.cn/publication/rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/rikinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A local non-negative pursuit method for intrinsic manifold structure preservation.</title>
+      <link>https://www.dicalab.cn/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rikinet/</guid>
+      <guid>https://www.dicalab.cn/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network Framework For Small-Sample Learning.</title>
+      <link>https://www.dicalab.cn/publication/a-network-framework-for-small-sample-learning/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/a-network-framework-for-small-sample-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>https://www.dicalab.cn/publication/bfgan/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/bfgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation.</title>
+      <link>https://www.dicalab.cn/publication/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Alignment Based on Sparse LocalStructures of More Corresponding Pairs.</title>
+      <link>https://www.dicalab.cn/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Multi-Manifold Clustering by Learning Deep Representation.</title>
-      <link>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</link>
+      <link>https://www.dicalab.cn/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</guid>
+      <guid>https://www.dicalab.cn/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>µ-Forcing:Training Variational Recurrent Autoencoders for Text Generation</title>
-      <link>/publication/training-variational-recurrent-autoencoders-for-text-generation/</link>
+      <link>https://www.dicalab.cn/publication/training-variational-recurrent-autoencoders-for-text-generation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/training-variational-recurrent-autoencoders-for-text-generation/</guid>
+      <guid>https://www.dicalab.cn/publication/training-variational-recurrent-autoencoders-for-text-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning by Mutual Information Estimation and Maximization.</title>
+      <link>https://www.dicalab.cn/publication/zero-shot-learning-by-mutual-information-estimation-and-maximization/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/zero-shot-learning-by-mutual-information-estimation-and-maximization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Poetry: A Chinese Classical Poetry Generation System.</title>
+      <link>https://www.dicalab.cn/publication/deep-poetry-a-chinese-classical-poetry-generation-system/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/deep-poetry-a-chinese-classical-poetry-generation-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Inference Algorithm for Text Infilling with Gradient Search</title>
-      <link>/publication/an-inference-algorithm/</link>
+      <link>https://www.dicalab.cn/publication/an-inference-algorithm/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/an-inference-algorithm/</guid>
+      <guid>https://www.dicalab.cn/publication/an-inference-algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ancient-Modern Chinese Translation with a New Large Training Dataset</title>
-      <link>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</link>
+      <link>https://www.dicalab.cn/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</guid>
+      <guid>https://www.dicalab.cn/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>表达学习中结构保持研究</title>
+      <link>https://www.dicalab.cn/publication/%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%BB%93%E6%9E%84%E4%BF%9D%E6%8C%81%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%BB%93%E6%9E%84%E4%BF%9D%E6%8C%81%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>可控式文本生成与改写的神经网络方法</title>
+      <link>https://www.dicalab.cn/publication/%E5%8F%AF%E6%8E%A7%E5%BC%8F%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90%E4%B8%8E%E6%94%B9%E5%86%99%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%8F%AF%E6%8E%A7%E5%BC%8F%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90%E4%B8%8E%E6%94%B9%E5%86%99%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于ITK和VTK的数字化口腔颌面外科辅助系统设计与实现</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Eitk%E5%92%8Cvtk%E7%9A%84%E6%95%B0%E5%AD%97%E5%8C%96%E5%8F%A3%E8%85%94%E9%A2%8C%E9%9D%A2%E5%A4%96%E7%A7%91%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Eitk%E5%92%8Cvtk%E7%9A%84%E6%95%B0%E5%AD%97%E5%8C%96%E5%8F%A3%E8%85%94%E9%A2%8C%E9%9D%A2%E5%A4%96%E7%A7%91%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于RBM的特征表达模型</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Erbm%E7%9A%84%E7%89%B9%E5%BE%81%E8%A1%A8%E8%BE%BE%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Erbm%E7%9A%84%E7%89%B9%E5%BE%81%E8%A1%A8%E8%BE%BE%E6%A8%A1%E5%9E%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于事件相机的图像去模糊方法研究</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8E%BB%E6%A8%A1%E7%B3%8A%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8E%BB%E6%A8%A1%E7%B3%8A%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于分类受限玻尔兹曼机的心音识别</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%88%86%E7%B1%BB%E5%8F%97%E9%99%90%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E6%9C%BA%E7%9A%84%E5%BF%83%E9%9F%B3%E8%AF%86%E5%88%AB/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%88%86%E7%B1%BB%E5%8F%97%E9%99%90%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E6%9C%BA%E7%9A%84%E5%BF%83%E9%9F%B3%E8%AF%86%E5%88%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于多任务卷积神经网络的冰箱果蔬识别慧择</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%86%B0%E7%AE%B1%E6%9E%9C%E8%94%AC%E8%AF%86%E5%88%AB/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%86%B0%E7%AE%B1%E6%9E%9C%E8%94%AC%E8%AF%86%E5%88%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于深度学习的中文书法风格分类与生成</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%AD%E6%96%87%E4%B9%A6%E6%B3%95%E9%A3%8E%E6%A0%BC%E5%88%86%E7%B1%BB%E4%B8%8E%E7%94%9F%E6%88%90/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%AD%E6%96%87%E4%B9%A6%E6%B3%95%E9%A3%8E%E6%A0%BC%E5%88%86%E7%B1%BB%E4%B8%8E%E7%94%9F%E6%88%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于深度学习的企业云盘中的图像分类方法</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E4%BA%91%E7%9B%98%E4%B8%AD%E7%9A%84%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E4%BA%91%E7%9B%98%E4%B8%AD%E7%9A%84%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于深度学习的绘画艺术风格特征提取与分类</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%88%86%E7%B1%BB/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%88%86%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于深度神经网络的夸张肖像漫画生成</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%A4%B8%E5%BC%A0%E8%82%96%E5%83%8F%E6%BC%AB%E7%94%BB%E7%94%9F%E6%88%90/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%A4%B8%E5%BC%A0%E8%82%96%E5%83%8F%E6%BC%AB%E7%94%BB%E7%94%9F%E6%88%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于知识图谱和目标引导的主动对话方法</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%92%8C%E7%9B%AE%E6%A0%87%E5%BC%95%E5%AF%BC%E7%9A%84%E4%B8%BB%E5%8A%A8%E5%AF%B9%E8%AF%9D%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%92%8C%E7%9B%AE%E6%A0%87%E5%BC%95%E5%AF%BC%E7%9A%84%E4%B8%BB%E5%8A%A8%E5%AF%B9%E8%AF%9D%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于表达学习的分类算法</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于表达的子空间学习与异常点检测</title>
+      <link>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%AD%90%E7%A9%BA%E9%97%B4%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%82%B9%E6%A3%80%E6%B5%8B/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%AD%90%E7%A9%BA%E9%97%B4%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%82%B9%E6%A3%80%E6%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时间序列分析的RBM相关模型研究 </title>
+      <link>https://www.dicalab.cn/publication/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%E7%9A%84rbm%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%E7%9A%84rbm%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神经网络小样本学习</title>
+      <link>https://www.dicalab.cn/publication/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>绘画作品审美计算与算法绘画</title>
+      <link>https://www.dicalab.cn/publication/%E7%BB%98%E7%94%BB%E4%BD%9C%E5%93%81%E5%AE%A1%E7%BE%8E%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%98%E7%94%BB/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E7%BB%98%E7%94%BB%E4%BD%9C%E5%93%81%E5%AE%A1%E7%BE%8E%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%98%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>零样本图像分类的神经网络方法</title>
+      <link>https://www.dicalab.cn/publication/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.dicalab.cn/publication/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</guid>
       <description></description>
     </item>
     

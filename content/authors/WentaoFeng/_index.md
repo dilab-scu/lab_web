@@ -6,7 +6,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD students
+- Postdoc
 ---
 
 Conducting the research work in artifical neural networks based accelerating and optimizing of numerical simulation; senior researcher & engineer in the research and engineering area of geothermal/natural gas/petroleum reservoir exploitation; Skilled in the secondary development of numerical simulation softwares using programming language; conducted research in the field of smart/digital renewable energy and large-scale underground storage of energy

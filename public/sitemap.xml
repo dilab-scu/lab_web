@@ -1,509 +1,681 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/author/dayiheng-liu/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dongbo-liu/</loc>
+    <loc>https://www.dicalab.cn/author/dayiheng-liu/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chenwei-tang/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/dongbo-liu/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/dongdongchen/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xiaojieli/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/chenwei-tang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/hang-zhang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/juan-zhao/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/kexin-yang/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mingfeng-xue/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/qian-qu/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/wentao-feng/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yuxin-tian/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/zhanao-huang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yifan-pu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/feifei-fu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/chanjuan-li/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/cheng-luo/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/liao-chen/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/zhichen-lai/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yong-wang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yusen-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/zhen-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/shenglan-yang/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/haoran-bai/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/chuan-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/jiulin-lang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/hongjie-wu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/huishuang-tian/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/dejia-yuan/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/chaoqun-niu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/jindi-lv/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/pengsen-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yanqing-hu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/jian-lan/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yi-gao/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chunzhixie/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/fenghe/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/fengruidai/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/huanminxu/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiangshuwei/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/kunxu/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/langchen/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/leixia/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/lilikong/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/siwenli/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xiaohualu/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhejiang/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/hang-zhang/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/juan-zhao/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/kexin-yang/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/mingfeng-xue/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/qian-qu/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/wentao-feng/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuxin-tian/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhanao-huang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/caiyang-yu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/cheng-huang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/hanwen-zhang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yifan-pu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/feifei-fu/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chanjuan-li/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/cheng-luo/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/liao-chen/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhichen-lai/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yong-wang/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yusen-liu/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhen-liu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/shenglan-yang/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/haoran-bai/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiulin-lang/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chuan-liu/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/hongjie-wu/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/huishuang-tian/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/dejia-yuan/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chaoqun-niu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jindi-lv/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/pengsen-liu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yanqing-hu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jian-lan/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yi-gao/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/shichang-li/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yehong-pan/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/ziao-xu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/mingjia-shi/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yongzhi-chen/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chenyu-lin/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/letian-wang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/dan-si/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xin-lan/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhengqing-zang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication-type/2/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/authors/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/brain-inspired-large-scale-deep-neural-network-system/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/fengwu/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiancheng-lv/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/junweihan/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication_types/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/qingye/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication-type/1/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/knowledge-distillation-method-for-surface-defect-detection/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/cataract-detection-based-on-ocular-b-ultrasound-images-by-collaborative-monitoring-deep-learning/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jianwang/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yongshegsang/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/end-to-end-edge-detection-via-improved-transformer-model/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/cr-gan-automatic-craniofacial-reconstruction-for-personal-identification/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/huixue/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/linzhang/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/weiboliang/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuanli/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhenanhe/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/pos-constrained-parallel-decoding-for-non-autoregressive-generation/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/weizhenqi/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/wenqianglei/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/automatic-cataract-detection-with-multi-task-learning/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/communication-efficient-federated-learning-with-compensated-overlap-fedavg/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuhaozhou/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yunxiali/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/zero-shot-learning-via-structure-aligned-generative-adversarial-network/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/nanduan/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/poolingformer-long-document-modeling-with-pooling-attention/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/weishengli/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/weizhuchen/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yelongshen/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yeyungong/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/heart-darts-classification-of-heartbeats-using-differentiable-architecture-search/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yannansun/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/anchibert-a-pre-trained-model-for-ancient-chinese-language-understanding-and-generation/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/lana-towards-personalized-deep-knowledge-tracing-through-distinguishable-interactive-sequences/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xihuali/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xueminzhao/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yunbocao/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/an-automatic-evaluation-metric-for-ancient-modern-chinese-translation/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yongshengsang/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/distributed-framework-for-ea-based-nas/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jixinzhang/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yanansun/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/herb-know-knowledge-enhanced-prescription-generation-for-traditional-chinese-medicine/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xiaominghuang/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/mao-li/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/multistyle-chinese-art-painting-generation-of-flowers/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/exploration-on-the-generation-of-chinese-palindrome-poetry/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jingluhu/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/key-factors-of-email-subject-generation/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/san-sampling-adversarial-networks-for-zero-shot-learning/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/superconv-strengthening-the-convolution-kernel-via-weight-sharing/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yangzhukuang/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/bijuejia/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/heart-sound-segmentation-via-duration-longshort-term-memory-neural-network/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yaochen/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiefu/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiushengchen/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/mingzhou/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuyan/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/hierarchical-regulated-iterative-network/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/jiabijue/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xipeng/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/hailunzhang/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/hierarchical-parallel-sgd-with-stale-gradients-featuring/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/chris-pal/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/revision-in-continuous-space/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/chris-pal/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yidanzhang/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jiancheng-lv/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jiefu/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/revision-in-continuous-space/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yidanzhang/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/nlp-project-3/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/arbitrary-chinese-font-generation-from-a-single-reference/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/attention-based-multi-model-ensemble-for-automatic-cataract-detection-in-b-scan-eye-ultrasound-images/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/hengzheng/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xiaofeizhang/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/pso-psparameter-synchronization-with-particle-swarm-optimization-for-distributed-training-of-deep-neural-networks/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuxuanhan/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/an-improved-dual-channel-network-to-eliminate-catastrophic-forgetting/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/multimodal-image-to-image-translation-between-domains-with-high-internal-variability/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xueyang/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/generating-chinese-poetry-from-images-via-concrete-and-abstract-information/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/daxinjiang/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/rikinet/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/nlp-project-3/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nlp/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/nlp/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/tags/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/distributed-framework-for-ea-based-nas/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/a-network-framework-for-small-sample-learning/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/a-local-non-negative-pursuit-method-for-intrinsic-manifold-structure-preservation/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/bfgan/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/a-network-framework-for-small-sample-learning/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/boshao/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bfgan/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/d.-chen/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.-chen/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/d.chen/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.chen/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daxinjiang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/feng-he/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dongdongchen/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/feng-he/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hierarchical-regulated-iterative-network/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/xue-yang/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jiabijue/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/yuanyuan-chen/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jiushengchen/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/z.yi/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jixinzhang/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/zhangyi/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/manifold-alignment-based-on-sparse-local-structure-of-more-corresponding-pairs/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/training-variational-recurrent-autoencoders-for-text-generation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/nanduan/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/qingye/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/rikinet/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unsupervised-multi-manifold-clustering-by-learning-deep-representation/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xiaojieli/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xipeng/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/xue-yang/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yanansun/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yaochen/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yeyungong/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yuanyuan-chen/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yuyan/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/z.yi/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/zhangyi/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/zhenanhe/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/training-variational-recurrent-autoencoders-for-text-generation/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/an-inference-algorithm/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/zero-shot-learning-by-mutual-information-estimation-and-maximization/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/deep-poetry-a-chinese-classical-poetry-generation-system/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/an-inference-algorithm/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pengfeiliu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/pengfeiliu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/3/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication-type/3/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/ancient-modern-chinese-translation-with-a-new-large-training-dataset/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bigdata/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/bigdata/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/bigdata-project-1/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/bigdata-project-1/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/nlp-project-2/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/nlp-project-2/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/nlp-project-1/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/nlp-project-1/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/cv-project-2/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/cv-project-2/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cv/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/cv/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/cv-project-1/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/project/cv-project-1/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication-type/7/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/source-themes/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%BB%93%E6%9E%84%E4%BF%9D%E6%8C%81%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%BB%93%E6%9E%84%E4%BF%9D%E6%8C%81%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-4/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-4/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-6/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-6/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-3/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-3/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-2/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-2/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-5/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-5/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-1/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-1/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nlp-dataset-7/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/nlp-dataset-7/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/nlp/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/category/nlp/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/open-source/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/tag/open-source/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E5%8F%AF%E6%8E%A7%E5%BC%8F%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90%E4%B8%8E%E6%94%B9%E5%86%99%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%8F%AF%E6%8E%A7%E5%BC%8F%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90%E4%B8%8E%E6%94%B9%E5%86%99%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8Eitk%E5%92%8Cvtk%E7%9A%84%E6%95%B0%E5%AD%97%E5%8C%96%E5%8F%A3%E8%85%94%E9%A2%8C%E9%9D%A2%E5%A4%96%E7%A7%91%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Eitk%E5%92%8Cvtk%E7%9A%84%E6%95%B0%E5%AD%97%E5%8C%96%E5%8F%A3%E8%85%94%E9%A2%8C%E9%9D%A2%E5%A4%96%E7%A7%91%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E5%9F%BA%E4%BA%8Erbm%E7%9A%84%E7%89%B9%E5%BE%81%E8%A1%A8%E8%BE%BE%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8Erbm%E7%9A%84%E7%89%B9%E5%BE%81%E8%A1%A8%E8%BE%BE%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8E%BB%E6%A8%A1%E7%B3%8A%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8E%BB%E6%A8%A1%E7%B3%8A%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E5%88%86%E7%B1%BB%E5%8F%97%E9%99%90%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E6%9C%BA%E7%9A%84%E5%BF%83%E9%9F%B3%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%88%86%E7%B1%BB%E5%8F%97%E9%99%90%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E6%9C%BA%E7%9A%84%E5%BF%83%E9%9F%B3%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%86%B0%E7%AE%B1%E6%9E%9C%E8%94%AC%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%86%B0%E7%AE%B1%E6%9E%9C%E8%94%AC%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%AD%E6%96%87%E4%B9%A6%E6%B3%95%E9%A3%8E%E6%A0%BC%E5%88%86%E7%B1%BB%E4%B8%8E%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%AD%E6%96%87%E4%B9%A6%E6%B3%95%E9%A3%8E%E6%A0%BC%E5%88%86%E7%B1%BB%E4%B8%8E%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E4%BA%91%E7%9B%98%E4%B8%AD%E7%9A%84%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BC%81%E4%B8%9A%E4%BA%91%E7%9B%98%E4%B8%AD%E7%9A%84%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%A4%B8%E5%BC%A0%E8%82%96%E5%83%8F%E6%BC%AB%E7%94%BB%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%A4%B8%E5%BC%A0%E8%82%96%E5%83%8F%E6%BC%AB%E7%94%BB%E7%94%9F%E6%88%90/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/md_thesis/%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%92%8C%E7%9B%AE%E6%A0%87%E5%BC%95%E5%AF%BC%E7%9A%84%E4%B8%BB%E5%8A%A8%E5%AF%B9%E8%AF%9D%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%92%8C%E7%9B%AE%E6%A0%87%E5%BC%95%E5%AF%BC%E7%9A%84%E4%B8%BB%E5%8A%A8%E5%AF%B9%E8%AF%9D%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%AD%90%E7%A9%BA%E9%97%B4%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%82%B9%E6%A3%80%E6%B5%8B/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E5%9F%BA%E4%BA%8E%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%AD%90%E7%A9%BA%E9%97%B4%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%BC%82%E5%B8%B8%E7%82%B9%E6%A3%80%E6%B5%8B/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%E7%9A%84rbm%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%E7%9A%84rbm%E7%9B%B8%E5%85%B3%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E7%BB%98%E7%94%BB%E4%BD%9C%E5%93%81%E5%AE%A1%E7%BE%8E%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%98%E7%94%BB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E7%BB%98%E7%94%BB%E4%BD%9C%E5%93%81%E5%AE%A1%E7%BE%8E%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%98%E7%94%BB/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/phd_thesis/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/publication/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/quanhui-liu/</loc>
+  </url><url>
+    <loc>https://www.dicalab.cn/author/shudong-huang/</loc>
   </url>
-  
-  <url>
-    <loc>/author/mao-li/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/quanhui-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/shudong-huang/</loc>
-  </url>
-  
 </urlset>
