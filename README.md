@@ -30,3 +30,11 @@ To help us develop this template and software sustainably under the MIT license,
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
+
+## Deploy Instructions
+Complie the static files with hugo:
+```bash
+cd dicalab-web
+hugo -b https://www.dicalab.cn
+```
+Then upload the files in the `public` to the server.
