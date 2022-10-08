@@ -9,7 +9,7 @@ authors:
 - admin
 - LinZhang
 date: "2021-10-26T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.patcog.2021.108400"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Pattern Recognition"
+publication_short: "PR"
 
 abstract: "Craniofacial reconstruction is applied to identify human remains in the absence of determination data (e.g., fingerprinting, dental records, radiological materials, or DNA), by predicting the likeness of the unidentified remains based on the internal relationship between the skull and face. Conventional 3D methods are usually based on statistical models with poor capacity, which limit the description of such complex relationship. Moreover, the required high-quality data are difficult to collect. In this study, we present a novel craniofacial reconstruction paradigm that synthesize craniofacial images from 2D computed tomography scan of skull data. The key idea is to recast craniofacial reconstruction as an image translation task, with the goal of generating corresponding craniofacial images from 2D skull images. To this end, we design an automatic skull-to-face transformation system based on deep generative adversarial nets. The system was trained on 4551 paired skull-face images obtained from 1780 CT head scans of the Han Chinese population. To the best of our knowledge, this is the only database of this magnitude in the literature. Finally, to accurately evaluate the performance of the model, a face recognition task employing five existing deep learning algorithms, —FaceNet, —SphereFace, —CosFace, —ArcFace, and —MagFace, was tested on 102 reconstruction cases in a face pool composed of 1744 CT-scan face images. The experimental results demonstrate that the proposed method can be used as an effective forensic tool."
 

@@ -6,7 +6,7 @@ authors:
 - YunxiaLi,
 - admin
 date: "2021-06-09T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/TNNLS.2021.3083367"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE Transactions on Neural Networks and Learning Systems"
 publication_short: ""
 
 abstract: "In this article, we propose a structure-aligned generative adversarial network framework to improve zero-shot learning (ZSL) by mitigating the semantic gap, domain shift, and hubness problem. The proposed framework contains two parts, i.e., a generative adversarial network with a softmax classifier part, and a structure-aligned part. In the first part, the generative adversarial network aims at generating pseudovisual features through the guiding generator and discriminator play the minimax two-player game together. At the same time, the softmax classifier is committed to increasing the interclass distance and reducing intraclass distance. Then, the harmful effect of domain shift and hubness problems can be mitigated. In another part, we introduce a structure-aligned module where the structural consistency between visual space and semantic space is learned. By aligning the structure between visual space and semantic space, the semantic gap between them can be bridged. The performance of classification is improved when the structure-aligned visual-semantic embedding space is transferred to the unseen classes. Our framework reformulates the ZSL as a standard fully supervised classification task using the pseudovisual features of unseen classes. Extensive experiments conducted on five benchmark data sets demonstrate that the proposed framework significantly outperforms state-of-the-art methods in both conventional and generalized settings."
